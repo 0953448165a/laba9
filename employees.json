@@ -1,0 +1,62 @@
+[
+    {
+        "surname": "Петренко",
+        "salary": 22000,
+        "position": "інженер",
+        "gender": "чоловік"
+    },
+    {
+        "surname": "Сидоренко",
+        "salary": 18000,
+        "position": "бухгалтер",
+        "gender": "жінка"
+    },
+    {
+        "surname": "Коваленко",
+        "salary": 26000,
+        "position": "директор",
+        "gender": "жінка"
+    },
+    {
+        "surname": "Шевченко",
+        "salary": 19500,
+        "position": "маркетолог",
+        "gender": "жінка"
+    },
+    {
+        "surname": "Ткаченко",
+        "salary": 17000,
+        "position": "аналітик",
+        "gender": "чоловік"
+    },
+    {
+        "surname": "Бондар",
+        "salary": 15500,
+        "position": "секретар",
+        "gender": "жінка"
+    },
+    {
+        "surname": "Мельник",
+        "salary": 21000,
+        "position": "дизайнер",
+        "gender": "жінка"
+    },
+    {
+        "surname": "Кравченко",
+        "salary": 24000,
+        "position": "програміст",
+        "gender": "чоловік"
+    },
+    {
+        "surname": "Гриценко",
+        "salary": 16000,
+        "position": "тестувальник",
+        "gender": "чоловік"
+    },
+    {
+        "surname": "Мудрий",
+        "salary": 300000,
+        "position": "Керівник",
+        "gender": "чоловік"
+    }
+]
